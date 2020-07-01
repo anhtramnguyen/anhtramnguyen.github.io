@@ -1,10 +1,10 @@
 # Site settings
 name: Anhtram Nguyen
 email: anhtram.nguyen@gmail.com
-#canonical_url: https://anhtramnguyen.com
+url: https://anhtramnguyen.com
 keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
 skills: "Senior Software Engineer in New York"
-baseurl:
+meta_author: Anhtram Nguyen
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
@@ -26,6 +26,12 @@ color:
   secondary-dark: 29455b
   section-tout: eaf1f1
 
+# Footer settings
+footer:
+  copyright: Anhtram Nguyen
+  location:
+  social: Around the Web
+  credits:
 
 
 # Build settings
